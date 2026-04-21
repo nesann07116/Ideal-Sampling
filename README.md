@@ -3,6 +3,11 @@
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
 Google Colab
+Python
+NumPy Library
+Matplotlib Library
+Internet Connection
+Computer / Laptop
 # Program
 ```
 import numpy as np
@@ -59,12 +64,9 @@ plt.show()
 Attach the program
 ```
 # Output Waveform
-```
-<img width="1189" height="790" alt="download" src="https://github.com/user-attachments/assets/c00c0fc4-80f6-4c35-8d88-81dcad70d6d6" />
-Attach the output waveform
-```
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/f38c4a74-707f-4211-8dde-12b13cffa116" />
+
 # Results
-```
-Attach the output waveform
+Simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling succesfully
 ```
 # Hardware experiment output waveform.
